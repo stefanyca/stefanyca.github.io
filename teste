@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digite sua Opção</title>
+</head>
+<body>
+    <h2>Digite sua fruta favorita:</h2>
+    <form>
+        <label for="fruta">Nome da fruta:</label>
+        <input type="text" id="fruta" name="fruta" placeholder="Exemplo: Maçã">
+        <br><br>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
